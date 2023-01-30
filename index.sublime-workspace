@@ -1,0 +1,337 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"table_",
+				"table_row"
+			],
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"add",
+				"add_person"
+			],
+			[
+				"m",
+				"money"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"mys",
+				"mys1"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"test",
+				"text-align-last\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"bra",
+				"border-radius\tproperty"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"po",
+				"polozka2"
+			],
+			[
+				"to",
+				"top\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"link",
+				"linky"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"defa",
+				"Snippet: default"
+			],
+			[
+				"settings ",
+				"Preferences: Settings"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"python app.py",
+			"cd ",
+			"pyhon3 app.py",
+			"\"AdvancedNewFile\",\"Alignment\",\"AlignTab\",",
+			"\"auto_upgrade_last_run\": null,"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/rober/WebProjects/WeatherAppSite/index.html",
+		"/C/Users/rober/Dropbox/PC/Desktop/Priečinky/Škola/SJL 8.A/MOR HO",
+		"/C/Users/rober/Dropbox/PC/Desktop/important event in my live",
+		"/C/Users/rober/.custom_bash_command.sh",
+		"/C/Users/rober/.my_command.sh",
+		"/C/Users/rober/PycharmProjects/first_project/my_command.sh",
+		"/C/Users/rober/PycharmProjects/first_project/person.py",
+		"/C/Users/rober/Desktop/Priečinky/Škola/SJL 8.A/Úvaha o plastoch",
+		"/C/Users/rober/PycharmProjects/first_project/Uvaha o plastoch",
+		"/C/Users/rober/Desktop/historaia Val Bela.txt",
+		"/C/www/New/app.vue",
+		"/C/Users/rober/IdeaProjects/projekt-s-Majom/src/main/java/sk/luky/body.java",
+		"/C/Users/rober/IdeaProjects/projekt-s-Majom/src/main/java/sk/luky/Program.java",
+		"/C/Users/rober/IdeaProjects/projekt-s-Majom/src/main/java/sk/luky/bird.java",
+		"/C/Users/rober/IdeaProjects/projekt-s-Majom/src/main/java/sk/luky/Main.java",
+		"/C/Users/rober/AppData/Local/Temp/Rar$DIa5940.21586/header.php",
+		"/C/xampp/htdocs/phpprojects/assets/css/style.css",
+		"/C/xampp/htdocs/phpprojects/header.php",
+		"/C/Users/rober/Desktop/lukas/CSS/štýl.css",
+		"/C/Users/rober/Desktop/web.html",
+		"/C/Users/rober/Desktop/lukas/štýl.css",
+		"/C/Users/rober/Desktop/lukas/index2.html",
+		"/C/Users/rober/Desktop/lukas/stranka.html",
+		"/C/Users/rober/Desktop/www/New-page/index.html",
+		"/C/Users/rober/Desktop/www/New-page/style.css",
+		"/C/Users/rober/Desktop/webperi.html",
+		"/C/Users/rober/Downloads/zaborsky-jonas_bajky_txt.html",
+		"/C/Users/rober/Desktop/webskuska.html",
+		"/C/Users/rober/Desktop/Web/style.css",
+		"/C/Users/rober/Desktop/style.css",
+		"/C/Users/rober/Desktop/java script.html",
+		"/C/Users/rober/Desktop/CSS/styleforJS2.css",
+		"/C/Users/rober/AppData/Local/Temp/Temp1_background changer.zip/background changer/style.css",
+		"/C/Users/rober/Desktop/style/style2.css",
+		"/C/Users/rober/Desktop/web5.html",
+		"/C/Users/rober/Desktop/web6.html",
+		"/C/Users/rober/Desktop/web2.html",
+		"/C/Users/rober/Desktop/index.html",
+		"/C/Users/rober/Desktop/novecss2.css",
+		"/C/Users/rober/Desktop/web7.html",
+		"/C/Users/rober/AppData/Local/Temp/Temp1_fontawesome-free-5.12.1-web.zip/fontawesome-free-5.12.1-web/css/all.css",
+		"/C/Users/rober/Desktop/novy web.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
